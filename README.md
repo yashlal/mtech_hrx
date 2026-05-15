@@ -6,11 +6,11 @@ Date - 5/14/2026
 Contact regarding issues - lalyash1804@gmail.com
 
 ## Step 1 - Setup Folder
-Create a folder to hold all the code and data
+Create a folder on your computer to hold all the code and data
 
-Put the `main.py` and `preprocess.py` files in this new folder
+Put the `main.py` and `preprocess.py` files in this new folder (download from this GitHub)
 
-Make two different subfolders named `data` and `out`
+Make two empty subfolders in the folder you created named `data` and `out`
 
 ## Step 2 - Download Data 
 
