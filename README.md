@@ -5,6 +5,8 @@ Date - 5/14/2026
 
 Contact regarding issues - lalyash1804@gmail.com
 
+Please feel free to reach out regarding any issues you run into!
+
 ## Step 1 - Setup Folder
 Create a folder on your computer to hold all the code and data
 
@@ -14,7 +16,7 @@ Make two empty subfolders in the folder you created named `data` and `out`
 
 ## Step 2 - Download Data 
 
-When navigating to a Report, there is a section on the left side with all the Reports for easy access. Simply click there for the instructions below.
+When navigating to a Report in RedCAP, there is a section on the left side with all the Reports for easy access. Simply click there for the various instructions below.
 
 ### Part 1 - Download Contact Logs
 Open the RedCap
